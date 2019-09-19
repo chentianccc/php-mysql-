@@ -1,0 +1,50 @@
+/* 底部导航开始 */
+.footer {
+	width: 1330px;
+	float: left;
+	background-color:#333333;
+	height: 280px;
+	color: #FFF;
+	font-size: 12px;
+
+	line-height: 20px;
+	float: left;
+}
+.footer img{
+	margin-top: 20px;
+	height: 60px;
+	width: 70px;
+	margin-left: 640px;
+}
+.footer .ewm {
+	height: 71px;
+	width: 71px;
+	margin-left: 700px;
+	margin-top: -80px;
+}
+.character ul li{
+	float: left;
+}
+.character ul{
+	margin-top: 20px;
+	margin-left: 400px;
+}
+.character ul li a{
+    color: #FFF;
+	font-size: 13px;
+	margin-left: 20px;
+	width: 100px;
+	text-align: center;
+}
+.character ul li a:hover {
+    color:#BB9772; 
+}
+.charac_one li {
+    text-align: center;
+    list-style: none;
+}
+.copy{
+    text-align: center;
+    list-style: none;
+}
+/* 底部代码结束 */

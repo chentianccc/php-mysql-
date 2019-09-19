@@ -1,0 +1,72 @@
+h1 {
+	text-align: center;
+}
+img {
+	text-align: center;
+}
+.img {
+	margin-top: 20px;
+	padding-left: 160px;
+}
+.tp {
+	height: 410px;
+	width: 1000px;
+	margin-left: 160px;
+	margin-top: 20px;
+	float: left;
+}
+.tp .kf2 {
+	height: 800px;
+	width: 1000px;
+}
+
+.tp .tp1 p {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-family: "黑体";
+	margin-top: 10px;
+}
+
+.tp .tp1 {
+
+	float: left;
+
+	margin-right: 15px;
+	height:400px;
+}
+
+
+.tp .tp2 {
+	
+	float: left;
+	
+	margin-right: 15px;
+	height:400px;
+}
+
+
+.tp .tp3 {
+
+	float: left;
+	height:400px;
+
+}
+.tp .tp2 p {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-family: "黑体";
+	margin-top: 10px;
+}
+.tp .tp3 p {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-family: "黑体";
+	margin-top: 10px;
+}
+.img2{
+	padding-left: 160px;
+	
+	}
